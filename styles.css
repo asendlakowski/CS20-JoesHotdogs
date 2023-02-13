@@ -1,0 +1,7 @@
+/*receipt styling*/
+div.receipt{ background-color: #d8b386; display: table; margin: 10px auto 10px auto; padding:50px;}
+h2 {text-align: center;}
+div.background{ background-image: URL('https://img.freepik.com/premium-vector/hotdog-cartoon-relax_53734-50.jpg?w=2000');
+    background-repeat: no-repeat; display: block; background-size: 100%; background-position-y: center; background-position-x: center;}
+h1 {font-size: 50; padding: 30px; background-color: black; display: inline; color: white; text-align: left;}
+
